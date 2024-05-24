@@ -1,6 +1,4 @@
-<?php
-include 'partials/header.php';
-?>
+
 
 
       <!-- header section end -->
@@ -141,6 +139,4 @@ include 'partials/header.php';
          </div>
       </div>
       <!-- coffee section end -->
-      <?php 
-include 'partials/footer.php';
-?>
+      

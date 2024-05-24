@@ -1,4 +1,4 @@
-<?php include('partials/header.php'); ?>
+
       <!-- header section end -->
       <!-- contact section start -->
       <div class="contact_section layout_padding">
@@ -31,4 +31,4 @@
          </div>
       </div>
       <!-- contact section end -->
-      <?php include('partials/footer.php'); ?>
+      

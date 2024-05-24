@@ -1,7 +1,4 @@
-<?php
 
-include('partials/header.php');
-?>
       <!-- header section end -->
       <!-- about section start -->
       <div class="about_section layout_padding">
@@ -24,6 +21,4 @@ include('partials/header.php');
          </div>
       </div>
       <!-- about section end -->
-      <?php     
-include('partials/footer.php');
-?>
+      

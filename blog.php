@@ -1,6 +1,4 @@
-<?php
-include('partials/header.php');
-?>
+
       <!-- blog section start -->
       <div class="blog_section layout_padding">
          <div class="container">
@@ -34,6 +32,4 @@ include('partials/header.php');
          </div>
       </div>
       <!-- blog section end -->
-      <?php     
-include('partials/footer.php');
-?>
+      
